@@ -1,3 +1,5 @@
+baseurl: "vef2_verk3"
+
 collections:
   authors:
     output: true
