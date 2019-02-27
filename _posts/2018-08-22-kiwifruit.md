@@ -11,4 +11,4 @@ diameter). It has a fibrous, dull greenish-brown skin and bright green or
 golden flesh with rows of tiny, black, edible seeds. The fruit has a soft
 texture, with a sweet and unique flavor.
 
-![kiwi](/assets/kiwi.jpg){:class="responsive": height="300px" width="400px"}
+![kiwi](/vef2_verk3/assets/kiwi.jpg){:class="responsive": height="300px" width="400px"}
