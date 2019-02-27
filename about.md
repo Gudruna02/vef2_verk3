@@ -6,4 +6,4 @@ title: About
 
 This page tells you a little bit about me.
  
-<img src="/assets/helo_gif.gif" alt="helooo" class="responsive">
+<img src="/vef2_verk3/assets/helo_gif.gif" alt="helooo" class="responsive">
